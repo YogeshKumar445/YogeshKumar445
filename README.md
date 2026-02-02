@@ -13,13 +13,12 @@
 
 <p align="center">
  <!-- ======== GITHUB STATS ======== -->
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YogeshKumar445&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshKumar445&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshKumar445&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -30,12 +29,30 @@
   <img src="https://streak-stats.demolab.com?user=YogeshKumar445&theme=tokyonight" />
 </p>
 
+## 🎓 Licenses & Certifications
 
 <p align="center">
-  <!-- Certifications (replace URLs with your actual certification badge URLs) -->
-  <img src="https://img.shields.io/badge/Certification-Example1-blue?style=for-the-badge&logo=certificate&logoColor=white" alt="Cert1" />
-  <img src="https://img.shields.io/badge/Certification-Example2-yellow?style=for-the-badge&logo=certificate&logoColor=white" alt="Cert2" />
-  <img src="https://img.shields.io/badge/Certification-Example3-green?style=for-the-badge&logo=certificate&logoColor=white" alt="Cert3" />
+
+  <!-- Linux Kernel Development -->
+  <a href="https://www.credly.com/badges/lf-grfw3gptbh" target="_blank">
+    <img src="https://img.shields.io/badge/Linux%20Kernel%20Development-LFD103-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  </a>
+
+  <!-- GitOps -->
+  <a href="https://www.credly.com/badges/lf-uni6cr6tyk" target="_blank">
+    <img src="https://img.shields.io/badge/GitOps-LFS169-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+
+  <!-- MongoDB -->
+  <a href="https://learn.mongodb.com/courses/introduction-to-mongodb" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-For%20Students-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </a>
+
+  <!-- Google Cloud -->
+  <a href="https://www.cloudskillsboost.google/" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  </a>
+
 </p>
 
 ---
@@ -99,10 +116,17 @@
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://github.com/YogeshKumar445"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/YogeshKumar445/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/YogeshKumar445" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yogesh-kumar-977164326/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ykogesh445@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
 ⭐ *Thanks for checking out my profile — stay tuned for more updates!* 🚀
 
