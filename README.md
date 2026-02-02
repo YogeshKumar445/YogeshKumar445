@@ -12,16 +12,24 @@
 <!-- ======== BADGES ======== -->
 
 <p align="center">
-  <!-- GitHub Profile Stats -->
-  ![Yogesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YogeshKumar445&show_icons=true&theme=tokyonight&count_private=true)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshKumar445&theme=tokyonight&layout=compact)
+ <!-- ======== GITHUB STATS ======== -->
 
-  <!-- GitHub Trophy -->
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=YogeshKumar445&theme=discord)
-
-  <!-- Contribution Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=YogeshKumar445&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YogeshKumar445&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshKumar445&theme=tokyonight&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YogeshKumar445&theme=discord&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YogeshKumar445&theme=tokyonight" />
+</p>
+
 
 <p align="center">
   <!-- Certifications (replace URLs with your actual certification badge URLs) -->
@@ -52,7 +60,7 @@
 
 ### 🧠 Interests
 - **Blockchain Development**
-    - Smart contracts (Solidity / EVM fundamentals) 
+    - Smart contracts (Solidity / EVM fundamentals)
     - Web3 technologies and decentralized apps
 - **DevOps**
     - CI/CD concepts
@@ -82,7 +90,7 @@
 
 ## 📌 What I’m Learning
 - 🔹 Deepening **Linux system mastery**
-- 🔹 Advancing **DSA with LeetCode roadmap**
+- 🔹 Advancing **Data Structures & Algorithms**
 - 🔹 Exploring **Blockchain essentials**
 - 🔹 Learning **DevOps fundamentals**
 
