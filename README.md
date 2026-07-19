@@ -116,12 +116,13 @@ MERN property listing & booking platform with auth and a fully responsive UI.
 
 <br/>
 
-**Contribution Graph**
+### 📈 Contribution Activity
 
-<img src="https://ghchart.rshah.org/00C896/YogeshKumar445" width="90%"/>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YogeshKumar445&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%"/>
 
 </div>
-
 <br/>
 
 ### LeetCode
