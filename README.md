@@ -119,7 +119,7 @@ MERN property listing & booking platform with auth and a fully responsive UI.
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/2E9E5B/YogeshKumar445" width="90%"/>
+<img src="https://ghchart.rshah.org/2E9E5B/YogeshKumar445" width="91%"/>
 
 </div>
 <br/>
