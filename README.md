@@ -115,11 +115,11 @@ MERN property listing & booking platform with auth and a fully responsive UI.
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=YogeshKumar445&theme=tokyonight&hide_border=true" width="85%"/>
 
 <br/>
-### 📈 Contribution Graph
+### 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00C896/YogeshKumar445" width="90%" style="border-radius:8px"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YogeshKumar445&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%"/>
 
 </div>
 <br/>
