@@ -27,7 +27,25 @@ CS undergrad at **NIET**, building full-stack systems with **Java, Spring Boot, 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,react,spring,nodejs,express,mysql,mongodb,docker,linux,git,postman,vscode&theme=dark"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
 
@@ -39,40 +57,45 @@ CS undergrad at **NIET**, building full-stack systems with **Java, Spring Boot, 
 <tr>
 <td width="50%" valign="top">
 
-**💱 CryptoX Exchange**
-<br/>
-<sub>Secure exchange backend — auth, wallet management, transaction processing on a layered architecture.</sub>
-<br/><br/>
-`Java` `Spring Boot` `MySQL`
+#### 💱 CryptoX Exchange
+Secure exchange backend — auth, wallet management, and transaction processing on a layered architecture.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-**🤖 AI Resume Analyzer** &nbsp;<sub>*in progress*</sub>
-<br/>
-<sub>ATS score generator comparing resumes vs. job descriptions, with AI-driven suggestions via Gemini.</sub>
-<br/><br/>
-`Spring Boot` `React.js` `Gemini API` `MySQL`
+#### 🤖 AI Resume Analyzer <sub>*in progress*</sub>
+ATS score generator comparing resumes vs. job descriptions, with AI-driven suggestions via Gemini.
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🏠 Nestora**
-<br/>
-<sub>MERN property listing & booking platform with auth and a fully responsive UI.</sub>
-<br/><br/>
-`MongoDB` `Express.js` `React.js` `Node.js`
+#### 🏠 Nestora
+MERN property listing & booking platform with auth and a fully responsive UI.
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-**🎮 Beat It**
-<br/>
-<sub>2D shooting game — event-driven logic and custom GUI built on Java Swing.</sub>
-<br/><br/>
-`Java` `Swing` `OOP`
+#### 🎮 Beat It
+2D shooting game — event-driven logic and custom GUI built on Java Swing.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-4B8BBE?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-2E86AB?style=flat-square)
 
 </td>
 </tr>
@@ -89,9 +112,13 @@ CS undergrad at **NIET**, building full-stack systems with **Java, Spring Boot, 
 <img src="https://github-readme-stats.vercel.app/api?username=YogeshKumar445&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshKumar445&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
 
-<img src="https://streak-stats.demolab.com?user=YogeshKumar445&theme=tokyonight&hide_border=true" width="85%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=YogeshKumar445&theme=tokyonight&hide_border=true" width="85%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YogeshKumar445&theme=tokyo-night&hide_border=true" width="90%"/>
+<br/>
+
+**Contribution Graph**
+
+<img src="https://ghchart.rshah.org/00C896/YogeshKumar445" width="90%"/>
 
 </div>
 
