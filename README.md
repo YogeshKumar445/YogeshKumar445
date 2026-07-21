@@ -115,22 +115,17 @@ MERN property listing & booking platform with auth and a fully responsive UI.
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=YogeshKumar445&theme=tokyonight&hide_border=true" width="85%"/>
 
 <br/>
-### 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://ghchart.rshah.org/2E9E5B/YogeshKumar445" width="91%"/>
-
-</div>
-<br/>
 
 ### LeetCode
 
 <div align="center">
 
-**100+ problems solved** — daily DSA practice
+**100+ Problems Solved** — Daily DSA Practice
 
-<a href="https://leetcode.com/Yogesh445-yk/"><img src="https://leetcard.jacoblin.cool/Yogesh445-yk?theme=dark&font=Fira%20Code&ext=heatmap" width="55%"/></a>
+<a href="https://leetcode.com/Yogesh445-yk/">
+  <img src="https://leetcard.jacoblin.cool/Yogesh445-yk?theme=dark&font=Fira%20Code" width="55%"/>
+</a>
 
 </div>
 
