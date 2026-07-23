@@ -19,7 +19,7 @@
 
 CS undergrad at **NIET**, building full-stack systems with **Java, Spring Boot, and React.js**. Currently exploring **AI integration, DevOps, and Cloud** to ship production-grade software.
 
-`Focus:` Java · Spring Boot · React.js · REST APIs &nbsp;|&nbsp; `Learning:` Docker · Linux · Cloud · Prompt Engineering
+`Focus:` Java · Spring Boot · React.js · REST APIs &nbsp;|&nbsp; `Learning:` Docker · Linux · Cloud · AI
 
 <br/>
 
